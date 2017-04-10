@@ -1,0 +1,21 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>
+			About Me Project
+		</title>
+	</head>
+	<body>
+		<header>
+			<h1>About Me Project</h1>
+		</header>
+		<img src="images/my-picture.jpg" width="200" height="200" alt="Picture of me"/>
+<h2>My Name Is Marcus</h2>
+		<p>I am a good teammate.</p>
+		<p>I should drive slower.</p>
+		<P>I enjoy making music.</P>
+			<h3>Pay Me For Ad Space</h3>
+			<p>$1,000,000, per Ad</p>
+	</body>
+
+</html>
