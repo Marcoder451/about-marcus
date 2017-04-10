@@ -9,13 +9,13 @@
 		<header>
 			<h1>About Me Project</h1>
 		</header>
-		<img src="images/my-picture.jpg" width="200" height="200" alt="Picture of me"/>
+		<img src="images/transformers-jazz-statue-prime1-feature-902926-1.jpg" width="200" height="200" alt="Picture of me"/>
 <h2>My Name Is Marcus</h2>
 		<p>I am a good teammate.</p>
 		<p>I should drive slower.</p>
 		<P>I enjoy making music.</P>
 			<h3>Pay Me For Ad Space</h3>
-			<p>$1,000,000, per Ad</p>
+		<p>$1,000,000, per Ad <b>#skyisthelimit</b></p>
 	</body>
 
 </html>
